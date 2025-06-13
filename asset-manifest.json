@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.482a245a.css",
-    "main.js": "/static/js/main.3803b4ab.js",
+    "main.css": "/static/css/main.45e2e462.css",
+    "main.js": "/static/js/main.8941e9e4.js",
     "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
     "static/media/Masterarbeit.pdf": "/static/media/Masterarbeit.df3deb4e5479acdcd15f.pdf",
     "static/media/gamejam.gif": "/static/media/gamejam.dd15166796a7ce64529a.gif",
@@ -35,14 +35,14 @@
     "static/media/roboto-vietnamese-400-normal.woff2": "/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
     "static/media/logo-no-background.svg": "/static/media/logo-no-background.e20c87fa58a5f7fc6e81bdb1bf0816c5.svg",
     "static/media/roboto-greek-ext-400-normal.woff2": "/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
-    "static/media/backgroundGradient.svg": "/static/media/backgroundGradient.76fc646204d04f1f8268.svg",
     "index.html": "/index.html",
-    "main.482a245a.css.map": "/static/css/main.482a245a.css.map",
-    "main.3803b4ab.js.map": "/static/js/main.3803b4ab.js.map",
+    "static/media/backgroundGradient.svg": "/static/media/backgroundGradient.76fc646204d04f1f8268.svg",
+    "main.45e2e462.css.map": "/static/css/main.45e2e462.css.map",
+    "main.8941e9e4.js.map": "/static/js/main.8941e9e4.js.map",
     "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.482a245a.css",
-    "static/js/main.3803b4ab.js"
+    "static/css/main.45e2e462.css",
+    "static/js/main.8941e9e4.js"
   ]
 }
